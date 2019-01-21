@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+import { GhProfileService } from '../gh-profile.service';
 @Component({
   selector: 'app-git-profile',
   templateUrl: './git-profile.component.html',
@@ -7,7 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class GitProfileComponent implements OnInit {
 
-  constructor() { }
+  constructor(private profileService:GhProfileService) {
+   this.profileService.getProfileInfo().subscribe(); {
+     console.log();
+   };
+   }
 
   ngOnInit() {
   }

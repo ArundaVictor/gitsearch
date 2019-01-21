@@ -47,3 +47,16 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+Other technologies used include:
+* Atom - Text editor
+* Bootstrap - content library
+* Git - version control environment
+
+## Support and contact details
+In case of any questions or feedback or clarifications, you can reach me at:
+victoroyugi31@gmail.com
+0705427223
+### License
+*Licenced under the [MIT Licence](LICENCE).*
+Copyright (c) 2019 **Arunda Victor oyugi**

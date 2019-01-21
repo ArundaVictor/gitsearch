@@ -1,6 +1,6 @@
 # GithubSearch
 
-#This is a web application where users can view and search github profiles.
+This is a web application where users can view and search github profiles.
 
 #### By **Arunda Victor Oyugi**
 

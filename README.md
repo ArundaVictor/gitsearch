@@ -1,11 +1,11 @@
 # GithubSearch
 
-####This is a web application where users can post their quotes and vote on other quotes.
+####This is a web application where users can view and search github profiles.
 
 #### By **Arunda Victor Oyugi**
 
 ## Description
-This is a website where users can post their quotes and also view other people's quotes. The user can up vote on a vote they like and can also down vote on a quote they do not like. They can add their details to the quote they post and can also see other details on the quotes posted by other people.If a user does not like a particular vote they can also delete the said vote.
+This is a website where a user can search for their github repository and also search for other github users. The user can also view my profile and my details such number of repositories.
 
 ## Setup/Installation Requirements
 * Ensure you have a web browser
@@ -16,9 +16,8 @@ This is a website where users can post their quotes and also view other people's
 |#User inputs   |  #Example outputs |         
 |---------------|-------------------|
 |When it receives:               | It should return:                  |
-| User posts quote entered              | The quote is displayed                  |
-| User up votes or down votes              | The vote is recorded on the quote                  |
-| User deletes a quote              | The quote is deleted                  |
+| User enters username              | The user profile is displayed                 |
+| User enters repository name              | The repository is displayed                  |
 
 ## Known Bugs
 There are no known bugs as at now but in case of any you may find please contact me.
